@@ -6,8 +6,7 @@
 //___COPYRIGHT___
 //
 
-#ifndef _____PROJECTNAMEASIDENTIFIER________FILEBASENAMEASIDENTIFIER_____
-#define _____PROJECTNAMEASIDENTIFIER________FILEBASENAMEASIDENTIFIER_____
+#pragma once
 
 #include "ofMain.h"
 
@@ -21,4 +20,3 @@ protected:
 
 };
 
-#endif /* defined(_____PROJECTNAMEASIDENTIFIER________FILEBASENAMEASIDENTIFIER_____) */
